@@ -6,6 +6,6 @@ Copy paste the .js contents in your browser console when landing on https://cert
 
 - [ ] UserScript
       
-- [ ] API (?fields=champ1,champ2)
+- [-] API (?fields=champ1,champ2)
       
-- [ ] URL de l'api utilisée en clair dans le code, refactor the code
+- [ ] API is called from the page, refactor the code to use the API will make cleaner and shorter code
