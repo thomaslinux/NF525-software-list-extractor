@@ -5,4 +5,5 @@ Copy paste the .js contents in your browser console when landing on https://cert
 # TODO
 
 - [ ] UserScript
-- [ ] API
+      
+- [ ] API (?fields=champ1,champ2)
